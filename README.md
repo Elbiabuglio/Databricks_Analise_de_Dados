@@ -5,7 +5,7 @@
 Este projeto tem como objetivo explorar a API da Pandas no PySpark, em vez da Pandas convencional. Durante o desenvolvimento, foram aplicadas boas práticas para trabalhar com essa biblioteca no Databricks, além de compreender as vantagens do uso do PySpark em cenários de big data.
 
 
-🚀 O que aprendemos?
+## 🚀 Conteúdo do Projeto
 
 * Leitura, visualização e consulta de dados utilizando diferentes abordagens;
 
